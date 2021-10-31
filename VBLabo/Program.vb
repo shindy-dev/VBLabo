@@ -10,7 +10,8 @@ Module Program
                                                        AddressOf Path_Sample.Sample,
                                                        AddressOf Shutil_Sample.Sample,
                                                        AddressOf StreamCSV_Sample.Sample,
-                                                       AddressOf DB2Manager_Sample.Sample
+                                                       AddressOf DB2Manager_Sample.Sample,
+                                                       AddressOf ArgumentParser_Sample.Sample
                                                        })
     Sub ExecuteSampleFunctions()
         If SampleFunctions.Count > 0 Then

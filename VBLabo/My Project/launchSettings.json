@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "VBLabo": {
+      "commandName": "Project",
+      "commandLineArgs": "-h"
+    }
+  }
+}
